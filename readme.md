@@ -1,1 +1,1 @@
-Web app for @Hotelier Interiors Dubai customers to find their partner hotels aroud the world
+Web app for @Hotelier Interiors Dubai customers to locate/book their partner hotels aroud the world
